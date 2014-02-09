@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<document>
+	<article number="0001" date="201402092026" active="1"><![CDATA[PluXml]]></article>
+	<article number="0002" date="201402092027" active="1"><![CDATA[tag1, tag2, tag3]]></article>
+	<article number="0003" date="201402092028" active="1"><![CDATA[tag1, tag3]]></article>
+	<article number="0004" date="201402092028" active="1"><![CDATA[tag3]]></article>
+</document>

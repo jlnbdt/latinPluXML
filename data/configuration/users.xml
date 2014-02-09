@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<user number="001" active="1" profil="0" delete="0">
+		<login><![CDATA[admin]]></login>
+		<name><![CDATA[admin]]></name>
+		<infos><![CDATA[]]></infos>
+		<password><![CDATA[cb8a592fdf882f8c14338299a46033d40eb49a06]]></password>
+		<salt><![CDATA[dw9PBSDA7b]]></salt>
+		<email><![CDATA[]]></email>
+		<lang><![CDATA[fr]]></lang>
+	</user>
+</document>
